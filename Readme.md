@@ -1,5 +1,10 @@
-jQuery SerializeJSON
+jQuery Plugin SerializeJSON
 ---------------------
 
 
-jQuery plugin that convert form parameters in JSON object.
+Simple jQuery plugin that convert form parameters in JSON object.
+
+Usage
+================
+
+$("form :first").serializeJSON();
